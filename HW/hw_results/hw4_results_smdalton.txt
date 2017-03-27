@@ -1,0 +1,2 @@
+Grade: nan/20
+Notes: No file named ChessPuzzle.jar

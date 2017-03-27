@@ -1,0 +1,54 @@
+line 1 contains: 
+17 alphabetic characters: charTypecharTypeo
+0 numeric character: 
+2 punctuation characters: :.
+2 whitespace characters:  
+
+line 2 contains: 
+21 alphabetic characters: gccocharTypecharTypeo
+0 numeric character: 
+2 punctuation characters: -.
+5 whitespace characters: 	   
+
+line 3 contains: 
+11 alphabetic characters: rmcharTypeo
+0 numeric character: 
+1 punctuation character: .
+3 whitespace characters: 	 
+
+line 4 contains: 
+0 alphabetic character: 
+0 numeric character: 
+0 punctuation character: 
+1 whitespace character: 
+
+line 5 contains: 
+18 alphabetic characters: charTypeocharTypec
+0 numeric character: 
+3 punctuation characters: .:.
+2 whitespace characters:  
+
+line 6 contains: 
+21 alphabetic characters: gcccstdcWallcharTypec
+2 numeric characters: 99
+5 punctuation characters: --=-.
+6 whitespace characters: 	    
+
+line 7 contains: 
+0 alphabetic character: 
+0 numeric character: 
+0 punctuation character: 
+1 whitespace character: 
+
+line 8 contains: 
+5 alphabetic characters: clean
+0 numeric character: 
+1 punctuation character: :
+1 whitespace character: 
+
+line 9 contains: 
+20 alphabetic characters: rmfcharTypecharTypeo
+0 numeric character: 
+2 punctuation characters: -.
+5 whitespace characters: 	   
+

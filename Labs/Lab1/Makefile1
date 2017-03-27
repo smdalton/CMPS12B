@@ -1,0 +1,18 @@
+# My first simple Makefile
+#It starts here and checks for pre-requisites.
+#checkk fails for HelloUser because HelloUser.class does
+# not exist yet
+#that dependency is met
+#flow
+#HelloUser --> checks for HelloUser.class in directory fails --> next makefile block Target is HelloUser.java
+
+HelloUser: HelloUser.class
+	echo Main-class: HelloUser > Manifest
+	jar cvfm HelloUser.jar Manifest HelloUser.class
+	rm Manifest
+
+HelloUser.class: HelloUser.java
+	javac -Xlint HelloUser.java
+
+clean:
+	rm HelloUser.jar HelloUser.class

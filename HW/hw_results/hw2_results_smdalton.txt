@@ -1,0 +1,2 @@
+Grade: 20/20
+Notes: All validity and find work, didn't identify attack correctly, N and N attack each other test fails, pawns correct

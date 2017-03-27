@@ -1,0 +1,3 @@
+Grade: 0/10
+Explanation:
+Makefile doesn't build DictionaryClient.c (-2) DictionaryClient.c does not compile. It was attempted to be compiled with Dictionary.c and IntegerLinkedList.c. Please attempt this compilation before contacting the TA. (-10) 
