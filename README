@@ -1,1 +1,27 @@
-Blank repository!
+This is a collection of all the works from my CMPS12B Data Structures Course at UCSC during Winter of 2017 With Professor Sesh
+All programs are in java, and I plan to port them to python this summer for extra practice. (Maybe JS with graphics)
+
+The Homeworks were as follows:
+
+1. NQueens problem: 
+    Recursive backtracking solution that determines the positions of N independent Queens placed on an NxN chessboard such that 
+    no Queen can attack any other queen on the board.
+    Solution works for a chess board of size N, and placement of the Queen in the first row in an arbitrary location.
+    Designed to read from a file for the input query.
+
+2. Linked List ChessBoard implementation:
+    Stores a linked list of chesspieces from an input file and checks for basic validity of the input and output
+  
+3. ChessBoard Attacks:
+    Expanding on 2, this program determines whether or not an attack is a valid attack, and whether or not kings are in check.
+
+4. Priority Queue:
+    A simple linked list implementation of a priority Queue that processes items of highest priority, and precedence.
+    
+5. IndexTheBard:
+    This program reads in the total collected works of Shakespeare from project gutenberg, cleans the files, and then indexes
+    all of the words from the plays into a hasmap. It then processes the hashmap and produces a searchable array that is          sorted
+    by frequency of word.
+    
+    After processing you can ask for N words of length L and the program will deliver the N most frequent words of length L used
+    by shakespeare across all of his works.
